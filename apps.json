@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "Calculator",
+      "version": "1.0",
+      "size": "2MB",
+      "description": "Full-featured calculator",
+      "url": "https://brunowebserver.github.io/BrunoOS-Marketplace/Calculator.program.zip"
+    }
+  ]
+}
