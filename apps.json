@@ -3,9 +3,16 @@
     {
       "name": "Calculator",
       "version": "1.0",
-      "size": "2MB",
+      "size": "1 kB",
       "description": "Full-featured calculator",
       "url": "https://brunowebserver.github.io/BrunoOS-Marketplace/Calculator.program.zip"
+    },
+    {
+      "name": "Advanced Terminal",
+      "version": "1.0",
+      "size": "1 kB",
+      "description": "Advanced terminal for BrunoOS from BrunoSoft",
+      "url": "https://brunowebserver.github.io/BrunoOS-Marketplace/Advanced-Terminal.program.zip"
     }
   ]
 }
