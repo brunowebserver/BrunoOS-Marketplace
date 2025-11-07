@@ -13,6 +13,13 @@
       "size": "1 kB",
       "description": "Advanced terminal for BrunoOS from BrunoSoft",
       "url": "https://brunowebserver.github.io/BrunoOS-Marketplace/Advanced-Terminal.program.zip"
+    },
+    {
+      "name": "BrunoBrowser",
+      "version": "1.0",
+      "size": "2 kB",
+      "description": "Web Browser for BrunoOS from Brunosoft",
+      "url": "https://brunowebserver.github.io/BrunoOS-Marketplace/BrunoBrowser.program.zip"
     }
   ]
 }
